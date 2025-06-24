@@ -10,12 +10,14 @@ nav {
     font-family: 'Poppins', sans-serif;
     margin-top: 20px;
     align-items: center;
-    color: #202020;
+    color: #ffffff;
+    background-color: #202020;
 }
 
 .logo {
     font-weight: 800;
     font-size: 25px;
+    
 }
 
 .nav-itens {
@@ -25,7 +27,7 @@ nav {
 
 .nav-itens>li>a {
     padding-left: 20px;
-    color: #202020;
+    color: #ffffff;
     text-decoration: none;
 }
 
